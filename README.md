@@ -1,6 +1,6 @@
 ### This is a Selenium based Image scrapper to scarp image for different deep learning projects
 # How to execute this code
-- Note : Chrom Browser is Necessary
+- Note : Chrome Browser is Necessary
 ```bash
 # create enivornment
 conda create -n image_scrapper python==3.6.9
